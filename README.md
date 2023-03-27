@@ -1,5 +1,8 @@
 # 🎰 Week05 Bootcamp2019 Project: Slot Machine
 
+
+![golden saucer](https://user-images.githubusercontent.com/126501848/227834949-6050646b-f2b8-4377-86e6-b76acfd4b921.png)
+
 ### Goal: Build a Simple Slot Machine
 
 Build a simple slot machine with minimum 5 items per reel and 3 reels - user should be able to bet min or max and have their total update
